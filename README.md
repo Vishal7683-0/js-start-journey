@@ -1,2 +1,2 @@
 # js-start-journey
-A code repo for javascript series
+A code repo for java
